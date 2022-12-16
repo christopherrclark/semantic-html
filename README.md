@@ -36,4 +36,4 @@ THEN I find a concise, descriptive title
 
 <!-- Here is the screenshot of my sample webpage -->
 
-![Here is the screenshot of my sample webpage] (./assets/images/my-webpage-screenshot.png)
+![Here is the screenshot of my sample webpage](./assets/images/my-webpage-screenshot.png)
